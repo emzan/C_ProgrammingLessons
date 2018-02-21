@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F6ECB23E203DDA8B00225CE8 /* 04_09_time2.c in Sources */ = {isa = PBXBuildFile; fileRef = F6ECB23D203DDA8B00225CE8 /* 04_09_time2.c */; };
+		F6ECB242203DDEBA00225CE8 /* 05_08_allocate2.c in Sources */ = {isa = PBXBuildFile; fileRef = F6ECB241203DDEBA00225CE8 /* 05_08_allocate2.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -34,6 +34,8 @@
 		F6ECB239203DDA0500225CE8 /* 03_08_function1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 03_08_function1.c; sourceTree = "<group>"; };
 		F6ECB23B203DDA4A00225CE8 /* 03_12_return1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 03_12_return1.c; sourceTree = "<group>"; };
 		F6ECB23D203DDA8B00225CE8 /* 04_09_time2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 04_09_time2.c; sourceTree = "<group>"; };
+		F6ECB23F203DDCAA00225CE8 /* 05_02_pointer1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 05_02_pointer1.c; sourceTree = "<group>"; };
+		F6ECB241203DDEBA00225CE8 /* 05_08_allocate2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 05_08_allocate2.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,8 @@
 				F6ECB239203DDA0500225CE8 /* 03_08_function1.c */,
 				F6ECB23B203DDA4A00225CE8 /* 03_12_return1.c */,
 				F6ECB23D203DDA8B00225CE8 /* 04_09_time2.c */,
+				F6ECB23F203DDCAA00225CE8 /* 05_02_pointer1.c */,
+				F6ECB241203DDEBA00225CE8 /* 05_08_allocate2.c */,
 			);
 			path = C_ProgrammingLessons;
 			sourceTree = "<group>";
@@ -137,7 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F6ECB23E203DDA8B00225CE8 /* 04_09_time2.c in Sources */,
+				F6ECB242203DDEBA00225CE8 /* 05_08_allocate2.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
