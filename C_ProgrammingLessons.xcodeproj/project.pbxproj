@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F687EE43204140BF0021B168 /* 14_04_arrayfunct3.c in Sources */ = {isa = PBXBuildFile; fileRef = F687EE42204140BF0021B168 /* 14_04_arrayfunct3.c */; };
+		F687EE47204143750021B168 /* 14_06_solution2.c in Sources */ = {isa = PBXBuildFile; fileRef = F687EE46204143750021B168 /* 14_06_solution2.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +31,8 @@
 		F687EE3E20413E6C0021B168 /* 14_04_arrayfunct1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_04_arrayfunct1.c; sourceTree = "<group>"; };
 		F687EE4020413EC40021B168 /* 14_04_arrayfunct2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_04_arrayfunct2.c; sourceTree = "<group>"; };
 		F687EE42204140BF0021B168 /* 14_04_arrayfunct3.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_04_arrayfunct3.c; sourceTree = "<group>"; };
+		F687EE44204141E60021B168 /* 14_06_solution1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_06_solution1.c; sourceTree = "<group>"; };
+		F687EE46204143750021B168 /* 14_06_solution2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_06_solution2.c; sourceTree = "<group>"; };
 		F69CC0BB20413AE40088404C /* 14_03_solution1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_03_solution1.c; sourceTree = "<group>"; };
 		F69CC0BF20413CED0088404C /* 14_03_solution2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_03_solution2.c; sourceTree = "<group>"; };
 		F6ECB223203DD71600225CE8 /* C_ProgrammingLessons */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = C_ProgrammingLessons; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -97,6 +99,8 @@
 				F687EE3E20413E6C0021B168 /* 14_04_arrayfunct1.c */,
 				F687EE4020413EC40021B168 /* 14_04_arrayfunct2.c */,
 				F687EE42204140BF0021B168 /* 14_04_arrayfunct3.c */,
+				F687EE44204141E60021B168 /* 14_06_solution1.c */,
+				F687EE46204143750021B168 /* 14_06_solution2.c */,
 				046B7AE9203EC05B00050607 /* wacky_math.c */,
 				046B7AEC203EC1AB00050607 /* wacky.c */,
 				046B7AEA203EC05B00050607 /* wacky_math.h */,
@@ -161,7 +165,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F687EE43204140BF0021B168 /* 14_04_arrayfunct3.c in Sources */,
+				F687EE47204143750021B168 /* 14_06_solution2.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
