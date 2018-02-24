@@ -7,9 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		046B7AEB203EC05B00050607 /* wacky_math.c in Sources */ = {isa = PBXBuildFile; fileRef = 046B7AE9203EC05B00050607 /* wacky_math.c */; };
-		046B7AED203EC1AB00050607 /* wacky.c in Sources */ = {isa = PBXBuildFile; fileRef = 046B7AEC203EC1AB00050607 /* wacky.c */; };
-		F6ECB242203DDEBA00225CE8 /* 05_08_allocate2.c in Sources */ = {isa = PBXBuildFile; fileRef = F6ECB241203DDEBA00225CE8 /* 05_08_allocate2.c */; };
+		F65F49DD204138070080F55B /* 14_01_arraysort3.c in Sources */ = {isa = PBXBuildFile; fileRef = F65F49D7204136CA0080F55B /* 14_01_arraysort3.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +26,8 @@
 		046B7AE9203EC05B00050607 /* wacky_math.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = wacky_math.c; sourceTree = "<group>"; };
 		046B7AEA203EC05B00050607 /* wacky_math.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = wacky_math.h; sourceTree = "<group>"; };
 		046B7AEC203EC1AB00050607 /* wacky.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = wacky.c; sourceTree = "<group>"; };
+		F65F49D7204136CA0080F55B /* 14_01_arraysort3.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_01_arraysort3.c; sourceTree = "<group>"; };
+		F65F49D92041376C0080F55B /* 14_01_arraysort1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_01_arraysort1.c; sourceTree = "<group>"; };
 		F6ECB223203DD71600225CE8 /* C_ProgrammingLessons */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = C_ProgrammingLessons; sourceTree = BUILT_PRODUCTS_DIR; };
 		F6ECB226203DD71600225CE8 /* 01_01_assignments.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 01_01_assignments.c; sourceTree = "<group>"; };
 		F6ECB22D203DD82100225CE8 /* 02_01_dummy.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 02_01_dummy.c; sourceTree = "<group>"; };
@@ -85,6 +85,8 @@
 				F6ECB23D203DDA8B00225CE8 /* 04_09_time2.c */,
 				F6ECB23F203DDCAA00225CE8 /* 05_02_pointer1.c */,
 				F6ECB241203DDEBA00225CE8 /* 05_08_allocate2.c */,
+				F65F49D92041376C0080F55B /* 14_01_arraysort1.c */,
+				F65F49D7204136CA0080F55B /* 14_01_arraysort3.c */,
 				046B7AE9203EC05B00050607 /* wacky_math.c */,
 				046B7AEC203EC1AB00050607 /* wacky.c */,
 				046B7AEA203EC05B00050607 /* wacky_math.h */,
@@ -149,9 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				046B7AED203EC1AB00050607 /* wacky.c in Sources */,
-				F6ECB242203DDEBA00225CE8 /* 05_08_allocate2.c in Sources */,
-				046B7AEB203EC05B00050607 /* wacky_math.c in Sources */,
+				F65F49DD204138070080F55B /* 14_01_arraysort3.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
