@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F69CC0C020413CED0088404C /* 14_01_solution2.c in Sources */ = {isa = PBXBuildFile; fileRef = F69CC0BF20413CED0088404C /* 14_01_solution2.c */; };
+		F687EE43204140BF0021B168 /* 14_04_arrayfunct3.c in Sources */ = {isa = PBXBuildFile; fileRef = F687EE42204140BF0021B168 /* 14_04_arrayfunct3.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,8 +28,11 @@
 		046B7AEC203EC1AB00050607 /* wacky.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = wacky.c; sourceTree = "<group>"; };
 		F65F49D7204136CA0080F55B /* 14_01_arraysort3.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_01_arraysort3.c; sourceTree = "<group>"; };
 		F65F49D92041376C0080F55B /* 14_01_arraysort1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_01_arraysort1.c; sourceTree = "<group>"; };
-		F69CC0BB20413AE40088404C /* 14_01_solution1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_01_solution1.c; sourceTree = "<group>"; };
-		F69CC0BF20413CED0088404C /* 14_01_solution2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_01_solution2.c; sourceTree = "<group>"; };
+		F687EE3E20413E6C0021B168 /* 14_04_arrayfunct1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_04_arrayfunct1.c; sourceTree = "<group>"; };
+		F687EE4020413EC40021B168 /* 14_04_arrayfunct2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_04_arrayfunct2.c; sourceTree = "<group>"; };
+		F687EE42204140BF0021B168 /* 14_04_arrayfunct3.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_04_arrayfunct3.c; sourceTree = "<group>"; };
+		F69CC0BB20413AE40088404C /* 14_03_solution1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_03_solution1.c; sourceTree = "<group>"; };
+		F69CC0BF20413CED0088404C /* 14_03_solution2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_03_solution2.c; sourceTree = "<group>"; };
 		F6ECB223203DD71600225CE8 /* C_ProgrammingLessons */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = C_ProgrammingLessons; sourceTree = BUILT_PRODUCTS_DIR; };
 		F6ECB226203DD71600225CE8 /* 01_01_assignments.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 01_01_assignments.c; sourceTree = "<group>"; };
 		F6ECB22D203DD82100225CE8 /* 02_01_dummy.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 02_01_dummy.c; sourceTree = "<group>"; };
@@ -89,8 +92,11 @@
 				F6ECB241203DDEBA00225CE8 /* 05_08_allocate2.c */,
 				F65F49D92041376C0080F55B /* 14_01_arraysort1.c */,
 				F65F49D7204136CA0080F55B /* 14_01_arraysort3.c */,
-				F69CC0BB20413AE40088404C /* 14_01_solution1.c */,
-				F69CC0BF20413CED0088404C /* 14_01_solution2.c */,
+				F69CC0BB20413AE40088404C /* 14_03_solution1.c */,
+				F69CC0BF20413CED0088404C /* 14_03_solution2.c */,
+				F687EE3E20413E6C0021B168 /* 14_04_arrayfunct1.c */,
+				F687EE4020413EC40021B168 /* 14_04_arrayfunct2.c */,
+				F687EE42204140BF0021B168 /* 14_04_arrayfunct3.c */,
 				046B7AE9203EC05B00050607 /* wacky_math.c */,
 				046B7AEC203EC1AB00050607 /* wacky.c */,
 				046B7AEA203EC05B00050607 /* wacky_math.h */,
@@ -155,7 +161,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F69CC0C020413CED0088404C /* 14_01_solution2.c in Sources */,
+				F687EE43204140BF0021B168 /* 14_04_arrayfunct3.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
