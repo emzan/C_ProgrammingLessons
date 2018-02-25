@@ -10,7 +10,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define SIZE 100
+#define SIZE 100000
 
 int compare(const void *a, const void *b);
 
@@ -22,7 +22,7 @@ int main()
     /* Sort the array */
     srand((unsigned)time(NULL));
     for (x = 0; x < SIZE; x++)
-        numbers[x] = rand() % 1000 + 1;
+        numbers[x] = rand() % 10000000 + 1;
     
     /* Display the sorted array */
     puts("Sorted array:");

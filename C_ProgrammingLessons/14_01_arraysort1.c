@@ -10,7 +10,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define SIZE 10
+#define SIZE 100000
 
 int main()
 {
@@ -20,7 +20,7 @@ int main()
     /* populate the array */
     srand((unsigned)time(NULL));
     for (x = 0; x < SIZE; x++)
-        numbers[x] = rand() % 100 + 1;
+        numbers[x] = rand() % 10000000 + 1;
     
     /* Display the unsorted array */
     puts("Unsorted array:");

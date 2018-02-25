@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F687EE4D204161000021B168 /* 14_07_structfunct3.c in Sources */ = {isa = PBXBuildFile; fileRef = F687EE4C204161000021B168 /* 14_07_structfunct3.c */; };
+		F687EE5F20427BB60021B168 /* 14_12_solution.c in Sources */ = {isa = PBXBuildFile; fileRef = F687EE5E20427BB60021B168 /* 14_12_solution.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -36,6 +36,13 @@
 		F687EE4820415F0D0021B168 /* 14_07_structfunct1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_07_structfunct1.c; sourceTree = "<group>"; };
 		F687EE4A2041605F0021B168 /* 14_07_structfunct2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_07_structfunct2.c; sourceTree = "<group>"; };
 		F687EE4C204161000021B168 /* 14_07_structfunct3.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_07_structfunct3.c; sourceTree = "<group>"; };
+		F687EE52204277A80021B168 /* 14_09_solution1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_09_solution1.c; sourceTree = "<group>"; };
+		F687EE54204277E20021B168 /* 14_09_solution2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_09_solution2.c; sourceTree = "<group>"; };
+		F687EE56204278D10021B168 /* 14_10_structarray1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_10_structarray1.c; sourceTree = "<group>"; };
+		F687EE58204279080021B168 /* 14_10_structarray2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_10_structarray2.c; sourceTree = "<group>"; };
+		F687EE5A204279360021B168 /* 14_10_structarray3.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_10_structarray3.c; sourceTree = "<group>"; };
+		F687EE5C20427A650021B168 /* 14_10_structarray4.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_10_structarray4.c; sourceTree = "<group>"; };
+		F687EE5E20427BB60021B168 /* 14_12_solution.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_12_solution.c; sourceTree = "<group>"; };
 		F69CC0BB20413AE40088404C /* 14_03_solution1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_03_solution1.c; sourceTree = "<group>"; };
 		F69CC0BF20413CED0088404C /* 14_03_solution2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_03_solution2.c; sourceTree = "<group>"; };
 		F6ECB223203DD71600225CE8 /* C_ProgrammingLessons */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = C_ProgrammingLessons; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -107,6 +114,13 @@
 				F687EE4820415F0D0021B168 /* 14_07_structfunct1.c */,
 				F687EE4A2041605F0021B168 /* 14_07_structfunct2.c */,
 				F687EE4C204161000021B168 /* 14_07_structfunct3.c */,
+				F687EE52204277A80021B168 /* 14_09_solution1.c */,
+				F687EE54204277E20021B168 /* 14_09_solution2.c */,
+				F687EE56204278D10021B168 /* 14_10_structarray1.c */,
+				F687EE58204279080021B168 /* 14_10_structarray2.c */,
+				F687EE5A204279360021B168 /* 14_10_structarray3.c */,
+				F687EE5C20427A650021B168 /* 14_10_structarray4.c */,
+				F687EE5E20427BB60021B168 /* 14_12_solution.c */,
 				046B7AE9203EC05B00050607 /* wacky_math.c */,
 				046B7AEC203EC1AB00050607 /* wacky.c */,
 				046B7AEA203EC05B00050607 /* wacky_math.h */,
@@ -171,7 +185,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F687EE4D204161000021B168 /* 14_07_structfunct3.c in Sources */,
+				F687EE5F20427BB60021B168 /* 14_12_solution.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
