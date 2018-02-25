@@ -1,11 +1,3 @@
-//
-//  04_09_time2.c
-//  C_ProgrammingLessons
-//
-//  Created by George Martinson on 22/02/2018.
-//  Copyright © 2018 kuangchi. All rights reserved.
-//
-
 #include <stdio.h>
 #include <time.h>
 

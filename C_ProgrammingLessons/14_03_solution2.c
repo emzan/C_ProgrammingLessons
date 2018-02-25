@@ -1,11 +1,3 @@
-//
-//  14_01_solution2.c
-//  C_ProgrammingLessons
-//
-//  Created by George Martinson on 24/02/2018.
-//  Copyright © 2018 kuangchi. All rights reserved.
-//
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
