@@ -6,6 +6,10 @@
 	objectVersion = 48;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		04E671A5204503A100546FC2 /* 03_09_argument3.c in Sources */ = {isa = PBXBuildFile; fileRef = 04E671A4204503A100546FC2 /* 03_09_argument3.c */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		F6ECB221203DD71600225CE8 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -55,6 +59,17 @@
 		046B7AE9203EC05B00050607 /* wacky_math.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = wacky_math.c; sourceTree = "<group>"; };
 		046B7AEA203EC05B00050607 /* wacky_math.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = wacky_math.h; sourceTree = "<group>"; };
 		046B7AEC203EC1AB00050607 /* wacky.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = wacky.c; sourceTree = "<group>"; };
+		04E671892044FCBE00546FC2 /* 03_04_for1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = 03_04_for1.c; sourceTree = "<group>"; };
+		04E6718B2044FCF800546FC2 /* 03_06_solution.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = 03_06_solution.c; sourceTree = "<group>"; };
+		04E6718D2044FD4B00546FC2 /* 03_07_for2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = 03_07_for2.c; sourceTree = "<group>"; };
+		04E6718F2044FD7200546FC2 /* 03_07_for3.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = 03_07_for3.c; sourceTree = "<group>"; };
+		04E67197204500FE00546FC2 /* 03_07_nestedfor1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = 03_07_nestedfor1.c; sourceTree = "<group>"; };
+		04E6719A2045013900546FC2 /* 03_07_nestedfor2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = 03_07_nestedfor2.c; sourceTree = "<group>"; };
+		04E6719C2045019300546FC2 /* 03_08_function2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = 03_08_function2.c; sourceTree = "<group>"; };
+		04E6719E204501D800546FC2 /* 03_08_function3.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = 03_08_function3.c; sourceTree = "<group>"; };
+		04E671A02045031200546FC2 /* 03_09_argument1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = 03_09_argument1.c; sourceTree = "<group>"; };
+		04E671A22045035D00546FC2 /* 03_09_argument2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = 03_09_argument2.c; sourceTree = "<group>"; };
+		04E671A4204503A100546FC2 /* 03_09_argument3.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = 03_09_argument3.c; sourceTree = "<group>"; };
 		F65F49D7204136CA0080F55B /* 14_01_arraysort3.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_01_arraysort3.c; sourceTree = "<group>"; };
 		F65F49D92041376C0080F55B /* 14_01_arraysort1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_01_arraysort1.c; sourceTree = "<group>"; };
 		F687EE3E20413E6C0021B168 /* 14_04_arrayfunct1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14_04_arrayfunct1.c; sourceTree = "<group>"; };
@@ -163,7 +178,18 @@
 				043B33152044D23100C3F657 /* 03_03_whileendless.c */,
 				043B33172044D25A00C3F657 /* 03_03_whileendlessbreak.c */,
 				F6ECB237203DD9C800225CE8 /* 03_03_whilemod.c */,
+				04E671892044FCBE00546FC2 /* 03_04_for1.c */,
+				04E6718B2044FCF800546FC2 /* 03_06_solution.c */,
+				04E6718D2044FD4B00546FC2 /* 03_07_for2.c */,
+				04E6718F2044FD7200546FC2 /* 03_07_for3.c */,
+				04E67197204500FE00546FC2 /* 03_07_nestedfor1.c */,
+				04E6719A2045013900546FC2 /* 03_07_nestedfor2.c */,
 				F6ECB239203DDA0500225CE8 /* 03_08_function1.c */,
+				04E6719C2045019300546FC2 /* 03_08_function2.c */,
+				04E6719E204501D800546FC2 /* 03_08_function3.c */,
+				04E671A02045031200546FC2 /* 03_09_argument1.c */,
+				04E671A22045035D00546FC2 /* 03_09_argument2.c */,
+				04E671A4204503A100546FC2 /* 03_09_argument3.c */,
 				F6ECB23B203DDA4A00225CE8 /* 03_12_return1.c */,
 				F6ECB23D203DDA8B00225CE8 /* 04_09_time2.c */,
 				F6ECB23F203DDCAA00225CE8 /* 05_02_pointer1.c */,
@@ -275,6 +301,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04E671A5204503A100546FC2 /* 03_09_argument3.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -329,7 +356,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
@@ -378,7 +405,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = macosx;
 			};
@@ -388,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -396,6 +424,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
