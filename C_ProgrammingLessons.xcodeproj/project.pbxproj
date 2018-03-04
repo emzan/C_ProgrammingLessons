@@ -6,6 +6,10 @@
 	objectVersion = 48;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		F6F1AFD8204B8D680050C8DB /* 14_04_arrayfunct1.c in Sources */ = {isa = PBXBuildFile; fileRef = F687EE3E20413E6C0021B168 /* 14_04_arrayfunct1.c */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		F6ECB221203DD71600225CE8 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -142,6 +146,16 @@
 		F6FCFE7320469C7A001A4B18 /* 05_01_var1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 05_01_var1.c; sourceTree = "<group>"; };
 		F6FCFE7520469CC1001A4B18 /* 05_01_var2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 05_01_var2.c; sourceTree = "<group>"; };
 		F6FCFE7720469CE9001A4B18 /* 05_01_var3.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 05_01_var3.c; sourceTree = "<group>"; };
+		F6FCFE7920469DE9001A4B18 /* 05_07_parray1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 05_07_parray1.c; sourceTree = "<group>"; };
+		F6FCFE7B20469E0A001A4B18 /* 05_07_parray2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 05_07_parray2.c; sourceTree = "<group>"; };
+		F6FCFE7D20469E3A001A4B18 /* 05_08_allocate1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 05_08_allocate1.c; sourceTree = "<group>"; };
+		F6FCFE7F20469E75001A4B18 /* 05_11_structstruct.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 05_11_structstruct.c; sourceTree = "<group>"; };
+		F6FCFE8120469EA9001A4B18 /* 05_12_linkedlist1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 05_12_linkedlist1.c; sourceTree = "<group>"; };
+		F6FCFE8320469ECE001A4B18 /* 05_12_linkedlist2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 05_12_linkedlist2.c; sourceTree = "<group>"; };
+		F6FCFE8520469F07001A4B18 /* 05_12_linkedlist3.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 05_12_linkedlist3.c; sourceTree = "<group>"; };
+		F6FCFE8720469F3B001A4B18 /* 05_12_linkedlist4.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 05_12_linkedlist4.c; sourceTree = "<group>"; };
+		F6FCFE8920469F62001A4B18 /* 05_12_linkedlist5.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 05_12_linkedlist5.c; sourceTree = "<group>"; };
+		F6FCFE8B20469FA3001A4B18 /* 05_12_linkedlist6.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 05_12_linkedlist6.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -259,7 +273,17 @@
 				043B32DB20445E5C00C3F657 /* 05_06_pfunction2.c */,
 				043B32DD20445E8100C3F657 /* 05_06_pfunction3.c */,
 				043B32E020445EF500C3F657 /* 05_06_pfunction4.c */,
+				F6FCFE7920469DE9001A4B18 /* 05_07_parray1.c */,
+				F6FCFE7B20469E0A001A4B18 /* 05_07_parray2.c */,
+				F6FCFE7D20469E3A001A4B18 /* 05_08_allocate1.c */,
 				F6ECB241203DDEBA00225CE8 /* 05_08_allocate2.c */,
+				F6FCFE7F20469E75001A4B18 /* 05_11_structstruct.c */,
+				F6FCFE8120469EA9001A4B18 /* 05_12_linkedlist1.c */,
+				F6FCFE8320469ECE001A4B18 /* 05_12_linkedlist2.c */,
+				F6FCFE8520469F07001A4B18 /* 05_12_linkedlist3.c */,
+				F6FCFE8720469F3B001A4B18 /* 05_12_linkedlist4.c */,
+				F6FCFE8920469F62001A4B18 /* 05_12_linkedlist5.c */,
+				F6FCFE8B20469FA3001A4B18 /* 05_12_linkedlist6.c */,
 				F65F49D92041376C0080F55B /* 14_01_arraysort1.c */,
 				F65F49D7204136CA0080F55B /* 14_01_arraysort3.c */,
 				F69CC0BB20413AE40088404C /* 14_03_solution1.c */,
@@ -357,6 +381,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F6F1AFD8204B8D680050C8DB /* 14_04_arrayfunct1.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
